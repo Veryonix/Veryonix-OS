@@ -48,7 +48,6 @@ The initial development stack is planned to include:
 
 - C and C++ — system development
 - x86-64 Assembly — low-level programming
-- Limine — bootloader
 - QEMU — virtual machine testing
 - Git and GitHub — source control and collaboration
 
